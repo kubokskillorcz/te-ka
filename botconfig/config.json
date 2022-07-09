@@ -1,0 +1,48 @@
+{
+   "token": "OTczNTcyMTc4MTY1NDk3OTU2.GiKQgy.0OjJ6WmyfkhwzxuCq1DOBpx7_XdRDYF0IJANJk",
+   "prefix": "//",
+   "ownerIDS": [
+      "310386227868336128"
+   ],
+   "fnbr": "GET from: https://fnbr.co",
+   "fortnitetracker": "GET from: https://fortnitetracker.com",
+   "memer_api": "DXAXFxN95Ru",
+   "status": {
+      "text": "pomalu snejksi",
+      "text2": "By: https://discord.gg/rewhuAvw2J",
+      "type": "STREAMING",
+      "url": "https://www.twitch.tv/kuba666__"
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "n1.lavalink.milrato.com",
+            "port": 10350,
+            "password": "discord.gg/milrato"
+         }
+      ]
+   },
+   "spotify": {
+      "clientSecret": "0475ecc5219c4bf2ad78b950c8ec972c",
+      "clientID": "a652c9ec18694d6a853b383118a59cce"
+   },
+   "settings": {
+      "COMMENT": "time_delay 0 === insta leave",
+      "leaveOnEmpty_Channel": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "LeaveOnEmpty_Queue": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "selfDeaf": true
+   },
+   "lyricssettings": {
+      "lyrics_finder": true,
+      "ksoft_api": {
+         "use_this_instead": true,
+         "api_key": "DISABLED"
+      }
+   }
+}
